@@ -658,9 +658,9 @@ stop.description=在此选项设置的时间(秒)后关闭应用. 如果设置�
 truncate-console-readout.name=缩短控制台输出内容
 truncate-console-readout.description=缩短控制台输出的内容在一行中.
 
-#Customize
+
 AriaNg Help=AriaNg 帮助
-Aria2c PanDownload 1=Aria2c百度云下载方案1
+Baidu PanDownload 1=Aria2c百度云下载方案1
 PanDownload 2 (recommand)=下载方案2（推荐）
 Download Aria2c=下载Aira2c工具包
 AriaNg By GamerNoTitle=AriaNg由GamerNoTitle部署
