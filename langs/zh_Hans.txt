@@ -2,7 +2,7 @@
 About=关于
 AriaNg Help=AriaNg 帮助
 Baidu PanDownload 1=Aria2c百度云下载方案1
-PanDownload 2 (recommand)=下载方案2（推荐）
+PanDownload 2 (recommand)=下载方案2（无法访问）
 Download Aria2c=下载Aira2c工具包
 AriaNg By GamerNoTitle=AriaNg由GamerNoTitle部署
 AriaNg @mayswind/AriaNg=项目@mayswind/AriaNg
